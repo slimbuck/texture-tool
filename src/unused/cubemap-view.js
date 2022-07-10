@@ -80,6 +80,7 @@ class CubemapView extends Panel {
                 { v: '1', t: 'linear' },
                 { v: '2', t: 'rgbm' },
                 { v: '3', t: 'rgbe' },
+                { v: '4', t: 'rgbp' },
                 { v: '4', t: 'a' }
             ]
         });
